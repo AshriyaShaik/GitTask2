@@ -1,3 +1,5 @@
 Git task.
 
 First line of RBG file. 
+
+Second line of RBG file.
